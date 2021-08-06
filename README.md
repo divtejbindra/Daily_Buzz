@@ -1,0 +1,1 @@
+The name of this website is Daily Buzz. This site is a website for News and wholesome Entertainment to integrate features like Blogs (about various topics), Music, and more all at one place. It is a one-stop destination for online users to gather knowledge and get entertained at the same time.
