@@ -1,0 +1,79 @@
+/* Global Reset */
+* {
+    font-family: 'Allerta', arial, Tahoma;
+    box-sizing: border-box;
+}
+body {
+    background: linear-gradient(to left, cyan, teal);
+    text-align:center;
+    color:#fff;
+}
+h3{
+    text-shadow:1px 1px 1px #fff;
+}
+
+h4{
+	font-family: 'Annie Use Your Telescope', cursive;
+}
+
+h1{
+	font-family: 'Annie Use Your Telescope', cursive;
+}
+a {
+	color: white;
+	text-decoration: none;
+}
+
+
+.underline-on-hover:hover {
+	text-decoration: underline;
+}
+
+.rec{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  width: 110px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: black;
+  opacity: 80%;
+}	
+
+/* Start  styling the page */
+.container-audio {
+    width: 66%;
+    height: auto;
+    padding: 20px;
+	color:red;
+    border-radius: 5px;
+    margin: 20px auto;
+    overflow: visible;
+}
+audio {
+  width:50%;
+}
+
+player {
+	background-image: black;
+}
+
+.next_and_prev i{
+	color:black;
+}
+
+
+
+.next_and_prev i:hover{
+	color:#F5BC04;
+}
+
+fa{
+	color:white
+}
+

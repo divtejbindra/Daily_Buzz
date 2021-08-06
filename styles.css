@@ -1,0 +1,41 @@
+
+.ac {   float: right;
+        background-color: black;
+        padding: 17px 20px;
+        border: 2px solid green;
+        border-radius: 12px;
+        text-align: center;
+        font:20px Arial, sans-serif;
+        cursor: pointer;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {    
+    color: green;
+}
+
+a:active { 
+    color: yellow;
+}
+
+.dc {
+  padding: 10px;
+  background: red;
+  opacity: 0.9;
+}
+
+.header img {
+  float: left;
+  width: 220px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 300px;
+}
